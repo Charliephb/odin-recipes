@@ -1,0 +1,34 @@
+.main {
+    font-size: 40px;
+}
+
+#title {
+    background-color: grey;
+    height: 50px;
+    width: 1000px;
+    text-align: center;
+    align-self: center;
+    font-size: 40px;
+    background-clip: content-box;
+}
+
+p h1 { 
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size: medium;
+}
+
+body {
+    background: lavender ;
+    text-align: center;
+    
+}
+
+a button{ 
+    background-color: green;
+}
+
+a button .BLT {
+    font-size: 29px;
+}
